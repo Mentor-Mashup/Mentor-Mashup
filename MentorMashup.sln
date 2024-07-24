@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MentorMashup.UI", "MentorMashup.UI\MentorMashup.UI\MentorMashup.UI.csproj", "{314EF5CC-AB05-4651-A189-F1D74E7C1FEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MentorMashup.UI.Client", "MentorMashup.UI\MentorMashup.UI.Client\MentorMashup.UI.Client.csproj", "{31418564-43B3-417E-806B-03974F2BC8D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314EF5CC-AB05-4651-A189-F1D74E7C1FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314EF5CC-AB05-4651-A189-F1D74E7C1FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314EF5CC-AB05-4651-A189-F1D74E7C1FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314EF5CC-AB05-4651-A189-F1D74E7C1FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31418564-43B3-417E-806B-03974F2BC8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31418564-43B3-417E-806B-03974F2BC8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31418564-43B3-417E-806B-03974F2BC8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31418564-43B3-417E-806B-03974F2BC8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39271810-98CD-4CB6-A290-89C8AF8480A2}
+	EndGlobalSection
+EndGlobal
